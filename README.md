@@ -9,6 +9,8 @@
 ## Business Intelligence
 * [Analysing the performance of a global superstore using Power BI](https://github.com/sa-diq/Global_superstore_analytics)
 
+## SQL
+* [Exploratory Analysis of UK Road Accidents](https://github.com/sa-diq/UK-Accident-Analysis/tree/main)
 ## Data Exploration with Python
 * [Data Science challenge on data exploration of New York Restaurants](https://github.com/sa-diq/DASL-3/blob/main/DASL%20Challenge%203.ipynb)
 
