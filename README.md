@@ -8,6 +8,7 @@
 
 ## Business Intelligence
 * [Analysing the performance of a global superstore using Power BI](https://github.com/sa-diq/Global_superstore_analytics)
+* [Middlesbrough Road Accidents Analysis](https://github.com/sa-diq/Middlesbrough-Accident-Analysis)
 
 ## SQL
 * [Exploratory Analysis of UK Road Accidents](https://github.com/sa-diq/UK-Accident-Analysis/tree/main)
