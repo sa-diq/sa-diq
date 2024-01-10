@@ -1,5 +1,10 @@
 ##### "Without data, you're just another person with an opinion." - W. Edwards Deming
 👋 Hello there! Welcome to my GitHub profile. I'm thrilled to have you here.
+## Education
+BSc. Agricultural and Environmental Engineering
+MSc. Applied Data Science
+## CV
+[CV](https://flowcv.com/resume/6csts56nru)
 
 ## Machine Learning Projects
 * [Customer segmentation using unsupervised and supervised machine learning models](https://github.com/sa-diq/customer-segmentation)
