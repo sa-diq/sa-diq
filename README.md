@@ -1,7 +1,7 @@
 ##### "Without data, you're just another person with an opinion." - W. Edwards Deming
 👋 Hello there! Welcome to my GitHub profile. I'm thrilled to have you here.
 ## Education
-BSc. Agricultural and Environmental Engineering
+BSc. Agricultural and Environmental Engineering<br>
 MSc. Applied Data Science
 ## CV
 [CV](https://flowcv.com/resume/6csts56nru)
