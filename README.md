@@ -4,10 +4,8 @@
 MSc. Applied Data Science <br>
 BSc. Agricultural and Environmental Engineering
 
-## CV
-[CV](https://flowcv.com/resume/6csts56nru)
-
 ## Machine Learning Projects
+* MLOps: [City-Scale EV Demand Forecasting System](https://github.com/sa-diq/ev-ml-project)
 * [Customer segmentation using unsupervised and supervised machine learning models](https://github.com/sa-diq/customer-segmentation)
 * [Prediction of stroke in patients using machine learning algorithms](https://github.com/sa-diq/Stroke-Prediction)
 * [Employee Attrition using R](https://github.com/sa-diq/employee_attrition)
